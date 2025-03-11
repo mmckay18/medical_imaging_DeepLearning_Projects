@@ -1,3 +1,9 @@
+# Tutorial directory
+/setup/
+/DATA/
+/DATA/*
+/torchcuda_env/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
